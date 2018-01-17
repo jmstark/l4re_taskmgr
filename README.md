@@ -8,15 +8,15 @@ The core, dom0 (found inside 'dom0-main'), can communicate with other dom0-insta
 In order to work, dom0 needs a modified version of l4re_kernel and Ned, found inside the directories 'dom0-l4re_kernel' and 'dom0-ned'. The differences to the original programs can be seen in the corresponding patchfiles inside 'l4re-modifications'. 
 Furthermore, this directory contains the neccessary configuration to run a test scenario. The test scenario demonstrates all of the above mentioned features.  
   
-  
-====================================  
-  
+
+
+
 Compile and run test scenario:  
-  
-# dependencies (for debian)  
+-------------------------  
+#dependencies (for debian)  
 sudo apt-get install make gawk g++ binutils pkg-config g++-multilib subversion dialog qemu  
 make -C l4re-snapshot-2014053111 setup  
-# select x86-32  
+#select x86-32  
 make -C l4re-snapshot-2014053111/obj/fiasco/ia32 -j4  
 make -C l4re-snapshot-2014053111/obj/l4/x86 -j4  
 cp l4re-modifications/run.sh l4re-snapshot-2014053111/obj/l4/x86  
