@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classL4_1_1Kobject__t.html" title="L4::Kobject_t\&lt; Icu,\l Irq_eio, L4_PROTO_IRQ \&gt;" alt="" coords="5,93,189,139"/>
+<area shape="rect" id="node3" href="$classL4_1_1Icu.html" title="C++ version of an interrupt controller. " alt="" coords="239,101,300,131"/>
+<area shape="rect" id="node5" href="$classL4_1_1Kobject__t.html" title="L4::Kobject_t\&lt; Event,\l L4::Icu, L4Re::Protocol\l::Event \&gt;" alt="" coords="381,5,541,69"/>
+<area shape="rect" id="node9" href="$classL4_1_1Kobject__t.html" title="L4::Kobject_t\&lt; Scheduler,\l Icu, L4_PROTO_SCHEDULER \&gt;" alt="" coords="351,93,572,139"/>
+<area shape="rect" id="node13" href="$classL4_1_1Kobject__t.html" title="L4::Kobject_t\&lt; Vcon,\l Icu, L4_PROTO_LOG \&gt;" alt="" coords="379,162,544,209"/>
+<area shape="rect" id="node7" href="$classL4Re_1_1Event.html" title="Event class. " alt="" coords="627,23,720,52"/>
+<area shape="rect" id="node11" href="$classL4_1_1Scheduler.html" title="Scheduler object. " alt="" coords="623,101,724,131"/>
+<area shape="rect" id="node15" href="$classL4_1_1Vcon.html" title="C++ L4 Vcon. " alt="" coords="636,171,711,200"/>
+<area shape="rect" id="node17" href="$classL4_1_1Kobject__t.html" title="L4::Kobject_t\&lt; Log,\l L4::Vcon, L4_PROTO_LOG \&gt;" alt="" coords="773,162,973,209"/>
+<area shape="rect" id="node19" href="$classL4Re_1_1Log.html" title="Log interface class. " alt="" coords="1021,171,1104,200"/>
+</map>

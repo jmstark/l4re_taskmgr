@@ -1,0 +1,27 @@
+<map id="L4::Cap_base::cap" name="L4::Cap_base::cap">
+<area shape="rect" id="node3" href="$classL4_1_1Irq.html#a8ae28faa2982f8b1e1408caa429746b1" title="Attach to an interrupt source. " alt="" coords="219,5,320,35"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="400,14,563,61"/>
+<area shape="rect" id="node7" href="$classL4_1_1Icu.html#a33a9538c6dffc5aea891368965663314" title="Bind an interrupt vector of an interrupt controller to an interrupt object. " alt="" coords="223,109,316,139"/>
+<area shape="rect" id="node11" href="$classL4_1_1Ipc__gate.html#a7237cd26b925c914a3a1ea63bac488e4" title="Bind the IPC&#45;gate to the thread. " alt="" coords="207,162,332,209"/>
+<area shape="rect" id="node13" href="$classL4_1_1Task.html#a85d2671bbe85a1b66dbce1c3e4225a8e" title="Test whether two capabilities point to the same object with the same rights. " alt="" coords="200,232,339,261"/>
+<area shape="rect" id="node15" href="$classL4_1_1Task.html#abcbb301e7ac7dd2e43f03755680ad9c6" title="Test whether a capability has child mappings (in another task). " alt="" coords="188,285,351,315"/>
+<area shape="rect" id="node17" href="$classL4_1_1Task.html#a2ae267c67b2ac58fe6d4489cc5dfa85e" title="Test whether a capability selector points to a valid capability. " alt="" coords="201,339,337,368"/>
+<area shape="rect" id="node19" href="$classL4_1_1Irq.html#aafc35b246869fe3a01198f66fb988ec9" title="Chain an IRQ to another master IRQ source. " alt="" coords="220,392,319,421"/>
+<area shape="rect" id="node21" href="$classL4Re_1_1Util_1_1Smart__count__cap.html#a5886f75acada6cddee1b8c3192476b93" title="copy operation for L4::Smart_cap (increment ref count). " alt="" coords="188,445,351,491"/>
+<area shape="rect" id="node23" href="$classL4_1_1Factory.html#a054dfa162b61fe26ebcace7e97cca432" title="Create a new factory. " alt="" coords="204,514,335,561"/>
+<area shape="rect" id="node25" href="$classL4_1_1Factory.html#a5085c44d657e806e17e7377c144a7c17" title="Create a new IPC gate. " alt="" coords="188,584,351,613"/>
+<area shape="rect" id="node27" href="$classL4_1_1Factory.html#a741b67e7d11d552f3c17eccfd0d3bf88" title="Create a new IRQ. " alt="" coords="193,637,345,667"/>
+<area shape="rect" id="node29" href="$classL4_1_1Factory.html#a6a11dcf739826de26881e699bd8d53a3" title="Create a new task. " alt="" coords="188,691,351,720"/>
+<area shape="rect" id="node31" href="$classL4_1_1Factory.html#a684b3479c8829c7b3ec1d0ef074afb5c" title="Create a new thread. " alt="" coords="204,743,335,790"/>
+<area shape="rect" id="node33" href="$classL4_1_1Factory.html#a8ef0c4da0c26fd8d847f1c35e324eb69" title="Create a new virtual machine. " alt="" coords="191,813,348,843"/>
+<area shape="rect" id="node35" href="$classL4_1_1Task.html#aaa8547ac98882cdadb72c8ed72e409af" title="Release capability and delete object. " alt="" coords="200,867,339,896"/>
+<area shape="rect" id="node37" href="$classL4Re_1_1Util_1_1Smart__cap__auto.html#a4dfba4f2c4731689f1a53992c83371a6" title="free operation for L4::Smart_cap. " alt="" coords="193,919,345,966"/>
+<area shape="rect" id="node39" href="$classL4Re_1_1Util_1_1Cap__alloc__base.html#a31c89aaa2ab78ca277cedad435a52162" title="Free a capability slot. " alt="" coords="196,989,343,1035"/>
+<area shape="rect" id="node41" href="$classL4Re_1_1Util_1_1Smart__count__cap.html#af74838562a97004e131201c2150973f6" title="free operation for L4::Smart_cap (decrement ref count and delete if 0). " alt="" coords="188,1058,351,1105"/>
+<area shape="rect" id="node43" href="$classL4_1_1Task.html#a320bbe2999fb22487d617ec7797ce960" title="Map resources available in the source task to a destination task. " alt="" coords="216,1128,323,1157"/>
+<area shape="rect" id="node46" href="$classL4_1_1Thread.html#ad19cbe78dd5ee887d76238a97d25b35e" title="Register an IRQ that will trigger upon deletion events. " alt="" coords="203,1181,336,1227"/>
+<area shape="rect" id="node48" href="$classL4_1_1Task.html#a2f48f0ac6d2175099bda3e91824e5d81" title="Release capability. " alt="" coords="195,1251,344,1280"/>
+<area shape="rect" id="node50" href="$classL4_1_1Scheduler.html#ae80cdd60acd6223f98aa37be4cdd8bf1" title="Run a thread on a Scheduler. " alt="" coords="205,1303,333,1350"/>
+<area shape="rect" id="node52" href="$classL4_1_1Icu.html#a852e7d20906fcf87b9dc1d4ea1cf2de8" title="Remove binding of an interrupt vector from the interrupt controller object. " alt="" coords="216,1373,323,1403"/>
+<area shape="rect" id="node9" href="$classL4Re_1_1Util_1_1Event__t.html#a0cbe4061a73ac278cb7015163c0c4c18" title="Initialise an event object. " alt="" coords="415,101,548,147"/>
+</map>

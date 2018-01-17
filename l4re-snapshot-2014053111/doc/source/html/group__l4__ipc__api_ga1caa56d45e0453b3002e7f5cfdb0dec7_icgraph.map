@@ -1,0 +1,8 @@
+<map id="l4_ipc" name="l4_ipc">
+<area shape="rect" id="node3" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="144,5,227,35"/>
+<area shape="rect" id="node5" href="$group__l4__ipc__api.html#ga3a8617092651c67f9ef1670b53fce66c" title="Wait for a message from a specific source. " alt="" coords="133,59,237,88"/>
+<area shape="rect" id="node7" href="$group__l4__ipc__api.html#ga1bd93bc08f402cc149bf62cba3ba9905" title="Reply and wait operation (uses the reply capability). " alt="" coords="111,112,260,141"/>
+<area shape="rect" id="node9" href="$group__l4__ipc__api.html#ga7de45eb59ce852466362ea85da00299e" title="Send a message to an object (do not wait for a reply). " alt="" coords="140,165,231,195"/>
+<area shape="rect" id="node11" href="$group__l4__ipc__api.html#ga72ee1f322b3f633fb885905ce213e2b5" title="Send a message and do an open wait. " alt="" coords="111,219,260,248"/>
+<area shape="rect" id="node13" href="$group__l4__ipc__api.html#gade81ef7ed9cb9e08bec716e640eabe04" title="Wait for an incoming message from any possible sender. " alt="" coords="143,272,228,301"/>
+</map>

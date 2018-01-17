@@ -1,0 +1,9 @@
+<map id="L4Re::Dataspace::size" name="L4Re::Dataspace::size">
+<area shape="rect" id="node3" href="$classL4Re_1_1Dataspace.html#a4989267bdb3c9086ce5cd45258c102c4" title="Get information on the data space. " alt="" coords="212,44,364,73"/>
+<area shape="rect" id="node5" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="649,5,713,35"/>
+<area shape="rect" id="node7" href="$group__l4__ipc__err__api.html#ga05c11e3e10b6c2aa941396ac2018899f" title="Return error code of a system call return message tag. " alt="" coords="456,44,520,73"/>
+<area shape="rect" id="node10" href="$classL4_1_1Ipc_1_1Iostream.html#a18ac55dddefc29f84d47935dbc86b7ca" title="Do an IPC call using the message in the output stream and receiving to the input stream. " alt="" coords="413,97,563,127"/>
+<area shape="rect" id="node12" href="$group__l4__ipc__api.html#gab96d1669dcd54657237ee27b7f6862c6" title="Object call (usual invocation). " alt="" coords="640,84,723,113"/>
+<area shape="rect" id="node16" href="$classL4_1_1Ipc_1_1Istream.html#a8bbdc10fe3456ae1bd5c670d5af84dc1" title="Get the message tag of a received IPC. " alt="" coords="612,137,751,167"/>
+<area shape="rect" id="node14" href="$group__l4__ipc__api.html#ga1caa56d45e0453b3002e7f5cfdb0dec7" title="Generic L4 object invocation. " alt="" coords="800,84,856,113"/>
+</map>

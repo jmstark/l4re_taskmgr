@@ -1,0 +1,5 @@
+<map id="cxx::Avl_map&lt; Key, Data, Compare, Alloc &gt;" name="cxx::Avl_map&lt; Key, Data, Compare, Alloc &gt;">
+<area shape="rect" id="node7" href="$classcxx_1_1Avl__map.html" title="{cxx::Avl_map\&lt; Region,\l Hdlr, cxx::Lt_functor,\l Alloc \&gt;\n|+ __pad0__\l|+ insert()\l+ find_node()\l+ lower_bound_node()\l+ find()\l+ remove()\l+ erase()\l+ operator[]()\l+ operator[]()\l}" alt="" coords="13,1086,171,1327"/>
+<area shape="rect" id="node2" href="$classcxx_1_1Avl__set.html" title="{cxx::Avl_set\&lt; Pair\l\&lt; Key, Data \&gt;, Pair\l_first_compare\&lt; Compare\l\&lt; Key \&gt;, Pair\&lt; Key, Data\l \&gt; \&gt;, Alloc \&gt;\n||+ Avl_set()\l+ Avl_set()\l+ insert()\l+ remove()\l+ erase()\l+ find_node()\l+ lower_bound_node()\l+ begin()\l+ begin()\l+ end()\land 6 more...\l}" alt="" coords="5,400,179,728"/>
+<area shape="rect" id="node4" href="$classcxx_1_1Avl__set.html" title="AVL Tree for simple comapreable items. " alt="" coords="17,6,167,282"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="L4Re::Log" name="L4Re::Log">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Log,\l L4::Vcon, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="5,1030,205,1133"/>
+<area shape="rect" id="node4" href="$classL4_1_1Vcon.html" title="C++ L4 Vcon. " alt="" coords="125,824,211,979"/>
+<area shape="rect" id="node6" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Vcon,\l Icu, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="131,670,296,773"/>
+<area shape="rect" id="node8" href="$classL4_1_1Icu.html" title="C++ version of an interrupt controller. " alt="" coords="292,379,391,586"/>
+<area shape="rect" id="node10" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Icu,\l Irq_eio, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="271,193,455,295"/>
+<area shape="rect" id="node12" href="$classL4_1_1Kobject__t.html" title="Helper class to create an L4Re interface class that is derived from a single base class..." alt="" coords="133,6,293,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="L4Re::Video::Goos" name="L4Re::Video::Goos">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Goos,\l L4::Kobject, L4Re::\lProtocol::Goos \&gt;\n|+ Protocol\l|}" alt="" coords="60,208,207,328"/>
+<area shape="rect" id="node4" href="$classL4_1_1Kobject.html" title="Base class for all kinds of kernel objects, referred to by capabilities. " alt="" coords="5,5,107,125"/>
+<area shape="rect" id="node6" href="$classL4_1_1Kobject__t.html" title="Helper class to create an L4Re interface class that is derived from a single base class..." alt="" coords="131,14,291,117"/>
+</map>

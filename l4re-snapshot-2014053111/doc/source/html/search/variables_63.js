@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['cap',['cap',['../structl4re__env__cap__entry__t.html#a2027e219842d2e7f2bca77b5839d07b4',1,'l4re_env_cap_entry_t']]],
+  ['cap_5falloc',['cap_alloc',['../group__l4re__cap__api.html#ga29e3dbeb3c8ed0609519c9df212c9c52',1,'L4Re::Util']]],
+  ['cerr',['cerr',['../namespaceL4.html#abb48344dd3500d28739ffe5c439f75e5',1,'L4']]],
+  ['cmdline',['cmdline',['../structl4util__mb__mod__t.html#ac86ef0e9e64b50f50d4d75b06b595dea',1,'l4util_mb_mod_t::cmdline()'],['../structl4util__mb__info__t.html#aa3c37b5b4a11d0d22c81fca1c5be4bbd',1,'l4util_mb_info_t::cmdline()']]],
+  ['cnt_5faddr_5fspace_5fswitch',['cnt_addr_space_switch',['../structl4__tracebuffer__status__t.html#aec43787ddda2768270b75781da696baa',1,'l4_tracebuffer_status_t::cnt_addr_space_switch()'],['../structl4__tracebuffer__status__t.html#a1609052a18d3018d01301d2a8661ced0',1,'l4_tracebuffer_status_t::cnt_addr_space_switch()']]],
+  ['cnt_5fcontext_5fswitch',['cnt_context_switch',['../structl4__tracebuffer__status__t.html#a1b55565c3868ea7c2924547bb9273e84',1,'l4_tracebuffer_status_t::cnt_context_switch()'],['../structl4__tracebuffer__status__t.html#ad3717fd5dd98290a119854c089fbf9d4',1,'l4_tracebuffer_status_t::cnt_context_switch()']]],
+  ['cnt_5fio_5ffault',['cnt_io_fault',['../structl4__tracebuffer__status__t.html#a651dd470e83354a5b1a996ce0c8a08e6',1,'l4_tracebuffer_status_t::cnt_io_fault()'],['../structl4__tracebuffer__status__t.html#a26fa659f27ef92d2fd9f3dd8074848d9',1,'l4_tracebuffer_status_t::cnt_io_fault()']]],
+  ['cnt_5fiobmap_5ftlb_5fflush',['cnt_iobmap_tlb_flush',['../structl4__tracebuffer__status__t.html#af5cee3a24f17da1cbe2870db3f477662',1,'l4_tracebuffer_status_t']]],
+  ['cnt_5fipc_5flong',['cnt_ipc_long',['../structl4__tracebuffer__status__t.html#aa1d61ab77a12dbfa5c4d6a3c1992a0a7',1,'l4_tracebuffer_status_t::cnt_ipc_long()'],['../structl4__tracebuffer__status__t.html#ab0e6c11ea084b5d9bb324b2e2f616844',1,'l4_tracebuffer_status_t::cnt_ipc_long()']]],
+  ['cnt_5firq',['cnt_irq',['../structl4__tracebuffer__status__t.html#ac005851d95bd2dec7ae92278e2a2c379',1,'l4_tracebuffer_status_t::cnt_irq()'],['../structl4__tracebuffer__status__t.html#ae1b05f8fa295e0db060126f2ecdd9c14',1,'l4_tracebuffer_status_t::cnt_irq()']]],
+  ['cnt_5fpage_5ffault',['cnt_page_fault',['../structl4__tracebuffer__status__t.html#af70f5a1b1fde319087962ccbb7e6eaee',1,'l4_tracebuffer_status_t::cnt_page_fault()'],['../structl4__tracebuffer__status__t.html#ad1686a77cd13682e5151e3892a2ece82',1,'l4_tracebuffer_status_t::cnt_page_fault()']]],
+  ['cnt_5fschedule',['cnt_schedule',['../structl4__tracebuffer__status__t.html#a9a2dc4473efc9c54849c1afef531578c',1,'l4_tracebuffer_status_t']]],
+  ['cnt_5fshortcut_5ffailed',['cnt_shortcut_failed',['../structl4__tracebuffer__status__t.html#a261a71956351f94ad04fdbf81ad2ad9b',1,'l4_tracebuffer_status_t::cnt_shortcut_failed()'],['../structl4__tracebuffer__status__t.html#afbe72b8b66108f01445bf8d3e9672a59',1,'l4_tracebuffer_status_t::cnt_shortcut_failed()']]],
+  ['cnt_5fshortcut_5fsuccess',['cnt_shortcut_success',['../structl4__tracebuffer__status__t.html#a1ab28a43c96fbe9a5114ab87a74adb60',1,'l4_tracebuffer_status_t::cnt_shortcut_success()'],['../structl4__tracebuffer__status__t.html#a0035b1611afa703f94863bc4f927aeee',1,'l4_tracebuffer_status_t::cnt_shortcut_success()']]],
+  ['cnt_5ftask_5fcreate',['cnt_task_create',['../structl4__tracebuffer__status__t.html#a34d31d786ab730ae7dbf5251073925a4',1,'l4_tracebuffer_status_t::cnt_task_create()'],['../structl4__tracebuffer__status__t.html#a36a9bdf8591c0d732821796a4ecb49e0',1,'l4_tracebuffer_status_t::cnt_task_create()']]],
+  ['code',['code',['../structl4re__event__t.html#a3739517171cc1e9bdb8bf8d6005dfdfe',1,'l4re_event_t']]],
+  ['config_5ftable',['config_table',['../structl4util__mb__info__t.html#aa619d197d7e846234c9d17c468c43444',1,'l4util_mb_info_t']]],
+  ['count',['count',['../structl4__vhw__descriptor.html#aa486079832f9166fbf40bdd572cf844b',1,'l4_vhw_descriptor']]],
+  ['cout',['cout',['../namespaceL4.html#a7bb8042cc1b1f3c2e190c979ff536c3a',1,'L4']]],
+  ['cpsr',['cpsr',['../structl4__exc__regs__t.html#af85a6238c254623b6f6b049a7fc47482',1,'l4_exc_regs_t']]],
+  ['current_5fentry',['current_entry',['../structl4__tracebuffer__status__t.html#ae529433e5fa040651f4437a10ed10539',1,'l4_tracebuffer_status_t']]],
+  ['cx',['cx',['../structl4__vcpu__regs__t.html#a67b367032b745f2213c60c2f1244f2e9',1,'l4_vcpu_regs_t']]]
+];

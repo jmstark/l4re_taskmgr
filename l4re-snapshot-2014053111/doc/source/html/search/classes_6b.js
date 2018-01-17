@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['kobject',['Kobject',['../classL4_1_1Kobject.html',1,'L4']]],
+  ['kobject_5f2t',['Kobject_2t',['../classL4_1_1Kobject__2t.html',1,'L4']]],
+  ['kobject_5f2t_3c_20console_2c_20video_3a_3agoos_2c_20event_20_3e',['Kobject_2t&lt; Console, Video::Goos, Event &gt;',['../classL4_1_1Kobject__2t.html',1,'L4']]],
+  ['kobject_5ft',['Kobject_t',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20dataspace_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3adataspace_20_3e',['Kobject_t&lt; Dataspace, L4::Kobject, L4Re::Protocol::Dataspace &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20debug_5fobj_2c_20l4_3a_3akobject_2c_20protocol_3a_3adebug_20_3e',['Kobject_t&lt; Debug_obj, L4::Kobject, Protocol::Debug &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20debugger_2c_20kobject_2c_20l4_5fproto_5fdebugger_20_3e',['Kobject_t&lt; Debugger, Kobject, L4_PROTO_DEBUGGER &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20event_2c_20l4_3a_3aicu_2c_20l4re_3a_3aprotocol_3a_3aevent_20_3e',['Kobject_t&lt; Event, L4::Icu, L4Re::Protocol::Event &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20factory_2c_20kobject_2c_20l4_5fproto_5ffactory_20_3e',['Kobject_t&lt; Factory, Kobject, L4_PROTO_FACTORY &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20goos_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3agoos_20_3e',['Kobject_t&lt; Goos, L4::Kobject, L4Re::Protocol::Goos &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20icu_2c_20irq_5feio_2c_20l4_5fproto_5firq_20_3e',['Kobject_t&lt; Icu, Irq_eio, L4_PROTO_IRQ &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20ipc_5fgate_2c_20kobject_2c_20l4_5fproto_5fkobject_20_3e',['Kobject_t&lt; Ipc_gate, Kobject, L4_PROTO_KOBJECT &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20irq_2c_20irq_5feio_2c_20l4_5fproto_5firq_20_3e',['Kobject_t&lt; Irq, Irq_eio, L4_PROTO_IRQ &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20irq_5feio_2c_20kobject_2c_20l4_5fproto_5firq_20_3e',['Kobject_t&lt; Irq_eio, Kobject, L4_PROTO_IRQ &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20log_2c_20l4_3a_3avcon_2c_20l4_5fproto_5flog_20_3e',['Kobject_t&lt; Log, L4::Vcon, L4_PROTO_LOG &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20mem_5falloc_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3amem_5falloc_20_3e',['Kobject_t&lt; Mem_alloc, L4::Kobject, L4Re::Protocol::Mem_alloc &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20meta_2c_20kobject_2c_20l4_5fproto_5fmeta_20_3e',['Kobject_t&lt; Meta, Kobject, L4_PROTO_META &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20namespace_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3anamespace_20_3e',['Kobject_t&lt; Namespace, L4::Kobject, L4Re::Protocol::Namespace &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20parent_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3aparent_20_3e',['Kobject_t&lt; Parent, L4::Kobject, L4Re::Protocol::Parent &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20rm_2c_20l4_3a_3akobject_2c_20l4re_3a_3aprotocol_3a_3arm_20_3e',['Kobject_t&lt; Rm, L4::Kobject, L4Re::Protocol::Rm &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20scheduler_2c_20icu_2c_20l4_5fproto_5fscheduler_20_3e',['Kobject_t&lt; Scheduler, Icu, L4_PROTO_SCHEDULER &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20task_2c_20kobject_2c_20l4_5fproto_5ftask_20_3e',['Kobject_t&lt; Task, Kobject, L4_PROTO_TASK &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20thread_2c_20kobject_2c_20l4_5fproto_5fthread_20_3e',['Kobject_t&lt; Thread, Kobject, L4_PROTO_THREAD &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20vcon_2c_20icu_2c_20l4_5fproto_5flog_20_3e',['Kobject_t&lt; Vcon, Icu, L4_PROTO_LOG &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]],
+  ['kobject_5ft_3c_20vm_2c_20task_2c_20l4_5fproto_5fvm_20_3e',['Kobject_t&lt; Vm, Task, L4_PROTO_VM &gt;',['../classL4_1_1Kobject__t.html',1,'L4']]]
+];

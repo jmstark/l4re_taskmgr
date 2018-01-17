@@ -1,0 +1,5 @@
+var classL4Re_1_1Log =
+[
+    [ "printn", "classL4Re_1_1Log.html#ac5dd2e4fddecb8adccfd37e076be2876", null ],
+    [ "print", "classL4Re_1_1Log.html#ab77e33b746dc1af2430613ca14a24f69", null ]
+];

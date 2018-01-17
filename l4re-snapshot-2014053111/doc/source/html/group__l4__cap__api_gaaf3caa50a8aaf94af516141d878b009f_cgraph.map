@@ -1,0 +1,5 @@
+<map id="L4::cap_dynamic_cast" name="L4::cap_dynamic_cast">
+<area shape="rect" id="node3" href="$group__l4__cap__api.html#gabe4e47e48f3ea558077cef7f7dee7ac0" title="reinterpret_cast for capabilities. " alt="" coords="208,5,371,35"/>
+<area shape="rect" id="node5" href="$group__l4__ipc__err__api.html#ga05c11e3e10b6c2aa941396ac2018899f" title="Return error code of a system call return message tag. " alt="" coords="257,59,321,88"/>
+<area shape="rect" id="node7" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="419,59,483,88"/>
+</map>

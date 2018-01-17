@@ -1,0 +1,5 @@
+<map id="L4Re::Dataspace::map" name="L4Re::Dataspace::map">
+<area shape="rect" id="node3" href="$group__l4__fpage__api.html#ga2d2cf6e4004f8476be5ca1839cfe50d8" title="Determine maximum flex page size of a region. " alt="" coords="211,5,349,35"/>
+<area shape="rect" id="node5" href="$group__l4__memory__api.html#ga96e3b2d8e69308aecbb11d1d24f61662" title="Round address up to the next page. " alt="" coords="227,59,333,88"/>
+<area shape="rect" id="node7" href="$group__l4__memory__api.html#ga70b72ae96c18cb49a3445198711bba0d" title="Round an address down to the next lower page boundary. " alt="" coords="229,112,331,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="l4vcpu_state" name="l4vcpu_state">
+<area shape="rect" id="node3" href="$group__api__libvcpu.html#gaa9e7015d78374249fc8e141907a60922" title="Disable a vCPU for event delivery and return previous state. " alt="" coords="151,5,313,35"/>
+<area shape="rect" id="node5" href="$classL4vcpu_1_1Vcpu.html#ab15a501657d942b54d2776ef9ddc47e6" title="Disable the vCPU for event delivery and return previous state. " alt="" coords="364,5,569,35"/>
+</map>

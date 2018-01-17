@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding/dom0_server.cc=UTF-8
+encoding/l4re_shared_ds_server.cc=UTF-8
+encoding/lua_ipc_client.cc=UTF-8
+encoding/remote_dom0_instance.cc=UTF-8
+encoding/tcp_client_socket.cc=UTF-8
+encoding/tcp_server_socket.cc=UTF-8
+encoding/tcp_socket.cc=UTF-8

@@ -1,0 +1,122 @@
+diff -rupN original/server/src/loader.cc new/server/src/loader.cc
+--- original/server/src/loader.cc	2014-05-31 11:17:09.000000000 +0200
++++ new/server/src/loader.cc	2014-10-01 22:23:01.581445777 +0200
+@@ -71,7 +71,7 @@ void unmap_stack_and_start()
+ }
+ 
+ L4Re_app_model::Dataspace
+-L4Re_app_model::alloc_ds(unsigned long size) const
++L4Re_app_model::alloc_ds(unsigned long size)
+ {
+   Dataspace mem = chkcap(Global::cap_alloc.alloc<L4Re::Dataspace>(),
+       "ELF loader: could not allocate capability");
+diff -rupN original/server/src/loader.h new/server/src/loader.h
+--- original/server/src/loader.h	2014-05-31 11:17:09.000000000 +0200
++++ new/server/src/loader.h	2014-10-01 22:22:27.110001576 +0200
+@@ -72,7 +72,7 @@ struct L4Re_app_model : public Ldr::Base
+ 
+   L4Re_app_model(L4::Cap<L4Re::Rm> rm, void *) : _rm(rm) {}
+ 
+-  Dataspace alloc_ds(unsigned long size) const;
++  static Dataspace alloc_ds(unsigned long size);
+ 
+   static Const_dataspace open_file(char const *name);
+ 
+diff -rupN original/server/src/main.cc new/server/src/main.cc
+--- original/server/src/main.cc	2014-05-31 11:17:09.000000000 +0200
++++ new/server/src/main.cc	2014-10-01 22:29:24.217377288 +0200
+@@ -26,6 +26,11 @@
+ #include <cstdlib>
+ #include <cstring>
+ 
++#include <stdio.h>
++#include <l4/cxx/ipc_stream>
++#include <l4/util/util.h>
++#include <l4/dom0-main/ipc_protocol.h>
++
+ #include "region.h"
+ #include "page_alloc.h"
+ #include "globals.h"
+@@ -222,9 +227,79 @@ int main(int argc, char const *argv[])
+   L4::Cap<Dataspace> file;
+ 
+   boot.printf("load binary '%s'\n", Global::l4re_aux->binary);
+-
+-  file = L4Re_app_model::open_file(Global::l4re_aux->binary);
+-
++  
++  if (strcmp(Global::l4re_aux->binary, "network") == 0)
++  {
++    printf("Loading network-received binary!\n");
++    
++    L4::Cap<void> server = L4Re::Env::env()->get_cap<void>("l4re_ipc");
++    
++    if (!server.is_valid())
++    {
++      printf("Could not get server capability!\n");
++      return 1;
++    }
++    printf("Got IPC gate.\n");
++    
++    L4::Cap<L4Re::Dataspace> ds = L4Re::Util::cap_alloc.alloc<
++    L4Re::Dataspace>();
++    if (!ds.is_valid())
++    {
++      printf("Could not get capability slot!\n");
++      return 1;
++    }
++    
++    L4::Ipc::Iostream s(l4_utcb());
++    //We want to get the shared dataspace ->
++    //Write the corresponding opcode and
++    //Small_buf(ds) into the stream and send it.
++    //The IPC server will write its dataspace into the
++    //stream and answer. The kernel detects this
++    //and maps the capability of the shared dataspace into ds.
++    s << L4::Opcode(Opcode::getSharedDataspace);
++    s << L4::Ipc::Small_buf(ds);
++    int r = l4_error(s.call(server.cap(), Protocol::l4reIpc));
++    if (r)
++    {
++      printf("error\n");
++      return r; // failure
++    }
++    printf("Got shared dataspace with target binary.\n");
++    
++    //Since dom0 might want to reuse ds for other binaries,
++    //we copy its contents into file and then use launch file.
++    file=L4Re_app_model::alloc_ds(ds->size());
++    
++    L4Re_app_model::copy_ds(file,0,ds,0,ds->size());
++    
++    if(r)
++    {
++      printf("error on copying ds: %s\n",l4sys_errtostr(r));
++      return -1;
++    }
++    
++    printf("Dataspace copied.\n");
++    
++    //Notify dom0 that we finished copying.
++    s.reset();
++    s << L4::Opcode(Opcode::dataspaceCopyFinished);
++    r = l4_error(s.call(server.cap(), Protocol::l4reIpc));
++    if (r)
++    {
++      printf("error\n");
++      return r; // failure
++    }
++    file.operator =(file);
++    printf("Sent OK message to dom0.\n");
++  }
++  
++  else
++  {
++    printf("Loading binary from ROM.\n");
++    file = L4Re_app_model::open_file(Global::l4re_aux->binary);
++  }
++  
++  
+   loader.start(file, Global::local_rm, Global::l4re_aux);
+ 
+   // Raise RM prio to its MCP

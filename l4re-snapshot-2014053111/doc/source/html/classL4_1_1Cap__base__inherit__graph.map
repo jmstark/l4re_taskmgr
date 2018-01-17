@@ -1,0 +1,15 @@
+<map id="L4::Cap_base" name="L4::Cap_base">
+<area shape="rect" id="node3" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4::Factory \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="533,772,691,961"/>
+<area shape="rect" id="node5" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4::Irq \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="891,772,1019,961"/>
+<area shape="rect" id="node7" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4::Kobject \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="184,772,341,961"/>
+<area shape="rect" id="node9" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4::Thread \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="5,772,160,961"/>
+<area shape="rect" id="node11" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4::Vcon \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="365,772,509,961"/>
+<area shape="rect" id="node13" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4Re::Dataspace \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="1687,772,1881,961"/>
+<area shape="rect" id="node15" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4Re::L4Re\l::Dataspace \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="1343,763,1492,970"/>
+<area shape="rect" id="node17" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4Re::L4Re\l::Namespace \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="1911,763,2060,970"/>
+<area shape="rect" id="node19" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4Re::Rm \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="715,772,867,961"/>
+<area shape="rect" id="node21" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; L4Re::Video\l::Goos \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="1125,763,1277,970"/>
+<area shape="rect" id="node23" href="$classL4_1_1Cap.html" title="{L4::Cap\&lt; void \&gt;\n||+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ Cap()\l+ move()\l+ operator&#45;\&gt;()\l}" alt="" coords="1537,772,1652,961"/>
+<area shape="rect" id="node25" href="$classL4_1_1Cap.html" title="Capability Selector a la C++. " alt="" coords="889,437,991,627"/>
+<area shape="rect" id="node38" href="$classL4_1_1Smart__cap.html" title="Smart capability class. " alt="" coords="2028,368,2223,696"/>
+</map>

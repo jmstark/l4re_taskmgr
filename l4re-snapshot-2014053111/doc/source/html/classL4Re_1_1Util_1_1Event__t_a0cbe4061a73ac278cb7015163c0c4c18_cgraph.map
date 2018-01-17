@@ -1,0 +1,9 @@
+<map id="L4Re::Util::Event_t::init" name="L4Re::Util::Event_t::init">
+<area shape="rect" id="node3" href="$classL4_1_1Icu.html#a33a9538c6dffc5aea891368965663314" title="Bind an interrupt vector of an interrupt controller to an interrupt object. " alt="" coords="224,32,317,61"/>
+<area shape="rect" id="node9" href="$classL4Re_1_1Event.html#a7c224daf3b22d640271fc0ef83ea725b" title="Get event signal buffer. " alt="" coords="191,85,351,115"/>
+<area shape="rect" id="node11" href="$classL4_1_1Cap__base.html#a3bb2ceba2923fc083bd1ea552366e7c8" title="Test whether capability selector is not the invalid capability selector. " alt="" coords="193,139,348,168"/>
+<area shape="rect" id="node13" href="$group__l4__ipc__err__api.html#ga05c11e3e10b6c2aa941396ac2018899f" title="Return error code of a system call return message tag. " alt="" coords="239,192,303,221"/>
+<area shape="rect" id="node5" href="$classL4_1_1Cap__base.html#a160f2a6425a5672b71aa9042c2c07fc1" title="Return capability selector. " alt="" coords="401,5,532,35"/>
+<area shape="rect" id="node7" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="408,59,525,88"/>
+<area shape="rect" id="node15" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="435,192,499,221"/>
+</map>

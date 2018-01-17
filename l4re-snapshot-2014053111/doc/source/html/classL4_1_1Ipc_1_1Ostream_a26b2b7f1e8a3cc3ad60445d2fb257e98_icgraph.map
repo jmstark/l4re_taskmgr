@@ -1,0 +1,4 @@
+<map id="L4::Ipc::Ostream::tag" name="L4::Ipc::Ostream::tag">
+<area shape="rect" id="node3" href="$group__ipc__stream.html#gaa6400e3192138b73e14abf73337fff35" title="Insert the L4 message tag into the stream s. " alt="" coords="236,5,321,35"/>
+<area shape="rect" id="node5" href="$classL4_1_1Ipc_1_1Ostream.html#a0ac15ba65285ed66a3b2ae7f9dc612d1" title="Send the message via IPC to the given receiver. " alt="" coords="201,59,356,88"/>
+</map>

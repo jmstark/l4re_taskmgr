@@ -1,0 +1,6 @@
+<map id="L4Re::Mem_alloc::alloc" name="L4Re::Mem_alloc::alloc">
+<area shape="rect" id="node3" href="$classL4_1_1Factory.html#a13238f9abe032e8c6bb107b2c20d1926" title="Generic create call to the factory. " alt="" coords="215,5,345,35"/>
+<area shape="rect" id="node7" href="$group__l4__ipc__err__api.html#ga05c11e3e10b6c2aa941396ac2018899f" title="Return error code of a system call return message tag. " alt="" coords="248,59,312,88"/>
+<area shape="rect" id="node5" href="$classL4_1_1Kobject.html#ad65ab7a8eaf4d55a2e4050fe77fadc63" title="Return capability selector. " alt="" coords="395,5,512,35"/>
+<area shape="rect" id="node9" href="$group__l4__utcb__api.html#gadc099b4a59e1d99638c72c11a8c8b644" title="Get the UTCB address. " alt="" coords="421,59,485,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="L4Re::Event" name="L4Re::Event">
+<area shape="rect" id="node2" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Event,\l L4::Icu, L4Re::Protocol\l::Event \&gt;\n|+ Protocol\l|}" alt="" coords="12,637,172,757"/>
+<area shape="rect" id="node4" href="$classL4_1_1Icu.html" title="C++ version of an interrupt controller. " alt="" coords="135,379,233,586"/>
+<area shape="rect" id="node6" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Icu,\l Irq_eio, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="113,193,297,295"/>
+<area shape="rect" id="node8" href="$classL4_1_1Kobject__t.html" title="Helper class to create an L4Re interface class that is derived from a single base class..." alt="" coords="29,6,189,109"/>
+</map>

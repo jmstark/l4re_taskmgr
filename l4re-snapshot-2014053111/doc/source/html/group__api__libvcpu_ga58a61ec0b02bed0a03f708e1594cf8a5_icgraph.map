@@ -1,0 +1,5 @@
+<map id="l4vcpu_irq_enable" name="l4vcpu_irq_enable">
+<area shape="rect" id="node3" href="$classL4vcpu_1_1Vcpu.html#a9776fe5423e6215779e321a921a9ac90" title="Enable the vCPU for event delivery. " alt="" coords="183,5,351,35"/>
+<area shape="rect" id="node5" href="$group__api__libvcpu.html#ga0b7c43e784c19c5ad007a05eb96229d1" title="Restore a previously saved IRQ/event state. " alt="" coords="203,59,331,88"/>
+<area shape="rect" id="node7" href="$classL4vcpu_1_1Vcpu.html#a86657426b70a6243a072e09f651d7163" title="Restore a previously saved IRQ/event state. " alt="" coords="400,59,571,88"/>
+</map>

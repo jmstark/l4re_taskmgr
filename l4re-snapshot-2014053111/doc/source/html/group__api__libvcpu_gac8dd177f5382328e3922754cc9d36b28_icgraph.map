@@ -1,0 +1,7 @@
+<map id="l4vcpu_irq_disable" name="l4vcpu_irq_disable">
+<area shape="rect" id="node3" href="$classL4vcpu_1_1Vcpu.html#a64b8c738ca6779f7c034b7b8d5446b03" title="Disable the vCPU for event delivery. " alt="" coords="185,5,356,35"/>
+<area shape="rect" id="node5" href="$group__api__libvcpu.html#gaa9e7015d78374249fc8e141907a60922" title="Disable a vCPU for event delivery and return previous state. " alt="" coords="189,59,352,88"/>
+<area shape="rect" id="node9" href="$group__api__libvcpu.html#ga0b7c43e784c19c5ad007a05eb96229d1" title="Restore a previously saved IRQ/event state. " alt="" coords="207,112,335,141"/>
+<area shape="rect" id="node7" href="$classL4vcpu_1_1Vcpu.html#ab15a501657d942b54d2776ef9ddc47e6" title="Disable the vCPU for event delivery and return previous state. " alt="" coords="407,59,612,88"/>
+<area shape="rect" id="node11" href="$classL4vcpu_1_1Vcpu.html#a86657426b70a6243a072e09f651d7163" title="Restore a previously saved IRQ/event state. " alt="" coords="424,112,595,141"/>
+</map>

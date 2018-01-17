@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['a',['a',['../classL4Re_1_1Video_1_1Pixel__info.html#acd05a2f3de5ba11add056d110773b8d7',1,'L4Re::Video::Pixel_info::a() const '],['../classL4Re_1_1Video_1_1Pixel__info.html#a590df61c7096ae87ef8d092261b3136a',1,'L4Re::Video::Pixel_info::a(Color_component const &amp;c)']]],
+  ['add',['add',['../classL4_1_1Thread_1_1Modify__senders.html#a35a34644e889ca50cefe6f6e59f7a282',1,'L4::Thread::Modify_senders::add()'],['../classL4vcpu_1_1State.html#a7de8ab5f3939c2a415f1fadd7aa9ae52',1,'L4vcpu::State::add()']]],
+  ['add_5fku_5fmem',['add_ku_mem',['../classL4_1_1Task.html#ac229c77b0ee553108d0125aa767c7771',1,'L4::Task']]],
+  ['alien',['alien',['../classL4_1_1Thread_1_1Attr.html#a9c7a53da3c18629628cab4ab7bd8ab87',1,'L4::Thread::Attr']]],
+  ['alloc',['alloc',['../classcxx_1_1List__alloc.html#a1db43253e50d3c478ed74ea089f2340f',1,'cxx::List_alloc::alloc()'],['../classcxx_1_1Slab.html#a18f3fa63befc64e1f89b4c566069ed60',1,'cxx::Slab::alloc()'],['../classcxx_1_1Base__slab__static.html#ac14d1b49aa4cae0545c3965f63bb9892',1,'cxx::Base_slab_static::alloc()'],['../classcxx_1_1Slab__static.html#a998a0d06f07720ae9db833835c47c97d',1,'cxx::Slab_static::alloc()'],['../classL4Re_1_1Cap__alloc.html#a6e3ed88fd1d1ea9f6c9c36379f5e45a1',1,'L4Re::Cap_alloc::alloc()=0'],['../classL4Re_1_1Cap__alloc.html#a0a1e264189083fa861cae9668454af28',1,'L4Re::Cap_alloc::alloc()'],['../classL4Re_1_1Mem__alloc.html#a6c65676c3687ec4ac540024ab0a7357f',1,'L4Re::Mem_alloc::alloc()'],['../classL4Re_1_1Util_1_1Cap__alloc__base.html#a1f778e439544f9118287ade4e055ce1c',1,'L4Re::Util::Cap_alloc_base::alloc()']]],
+  ['alloc_5ffd',['alloc_fd',['../classL4Re_1_1Vfs_1_1Fs.html#a5fe18dd6b6418e1b65dd73a0e3f5c74c',1,'L4Re::Vfs::Fs']]],
+  ['allocate',['allocate',['../classL4Re_1_1Dataspace.html#a1dc3753a5a0cb425f74466bb79a52150',1,'L4Re::Dataspace::allocate()'],['../classL4Re_1_1Util_1_1Dataspace__svr.html#a06028ed1f86668b7e1e1e7a05dd4833e',1,'L4Re::Util::Dataspace_svr::allocate()']]],
+  ['asm',['asm',['../namespaceL4Re_1_1Vfs.html#a2917b500865ed14a7c26276ebe3f451d',1,'L4Re::Vfs']]],
+  ['attach',['attach',['../classL4Re_1_1Rm.html#ab47580309ca3b67239cc73c14f1f96bf',1,'L4Re::Rm::attach(l4_addr_t *start, unsigned long size, unsigned long flags, L4::Cap&lt; Dataspace &gt; mem, l4_addr_t offs=0, unsigned char align=L4_PAGESHIFT) const '],['../classL4Re_1_1Rm.html#a1e689a8d427d6fdce6283ed63be8f366',1,'L4Re::Rm::attach(T **start, unsigned long size, unsigned long flags, L4::Cap&lt; Dataspace &gt; mem, l4_addr_t offs=0, unsigned char align=L4_PAGESHIFT) const '],['../classL4Re_1_1Util_1_1Event__buffer__t.html#af8bab7db99fa72c6e88dc3152158ff02',1,'L4Re::Util::Event_buffer_t::attach()'],['../classL4_1_1Irq.html#a8ae28faa2982f8b1e1408caa429746b1',1,'L4::Irq::attach()']]],
+  ['attr',['Attr',['../classL4_1_1Thread_1_1Attr.html#ae0ecba269df185c9bb32d5f275c23434',1,'L4::Thread::Attr']]],
+  ['auto_5fptr',['Auto_ptr',['../classcxx_1_1Auto__ptr.html#abd6958a48f897f13c5052f6f45d882fb',1,'cxx::Auto_ptr::Auto_ptr(T *p=0)'],['../classcxx_1_1Auto__ptr.html#afe6871a1227e352820f980bba205fade',1,'cxx::Auto_ptr::Auto_ptr(Auto_ptr const &amp;o)']]],
+  ['auto_5frefresh',['auto_refresh',['../structL4Re_1_1Video_1_1Goos_1_1Info.html#a20892b0c2fc08d3d27891300c6a2b20b',1,'L4Re::Video::Goos::Info']]],
+  ['avail',['avail',['../classcxx_1_1List__alloc.html#a086c8ed553f575408d7048510561fb0a',1,'cxx::List_alloc']]],
+  ['avl_5fset',['Avl_set',['../classcxx_1_1Avl__set.html#a688c3de9bd72413a62f762c9e2b87784',1,'cxx::Avl_set::Avl_set(Node_allocator const &amp;alloc=Node_allocator())'],['../classcxx_1_1Avl__set.html#ab76e1089c960d4e3e2ee4ed14dfbe383',1,'cxx::Avl_set::Avl_set(Avl_set const &amp;o)']]],
+  ['avl_5ftree',['Avl_tree',['../classcxx_1_1Avl__tree.html#aa87ae7986c3ed07e34e5f691d52959a1',1,'cxx::Avl_tree']]],
+  ['avl_5ftree_5fnode',['Avl_tree_node',['../classcxx_1_1Avl__tree__node.html#aab396cc6bb81603da4c1d0004ccac642',1,'cxx::Avl_tree_node']]]
+];

@@ -1,0 +1,19 @@
+<map id="l4_error" name="l4_error">
+<area shape="rect" id="node3" href="$classL4Re_1_1Mem__alloc.html#a6c65676c3687ec4ac540024ab0a7357f" title="Allocate anonymous memory. " alt="" coords="145,5,303,35"/>
+<area shape="rect" id="node5" href="$classL4Re_1_1Dataspace.html#a1dc3753a5a0cb425f74466bb79a52150" title="Allocate a range in the dataspace. " alt="" coords="136,59,312,88"/>
+<area shape="rect" id="node7" href="$classL4Re_1_1Rm.html#ab47580309ca3b67239cc73c14f1f96bf" title="Attach a data space to a region. " alt="" coords="161,112,287,141"/>
+<area shape="rect" id="node9" href="$group__l4__cap__api.html#gaaf3caa50a8aaf94af516141d878b009f" title="dynamic_cast for capabilities. " alt="" coords="148,165,300,195"/>
+<area shape="rect" id="node11" href="$classL4Re_1_1Dataspace.html#aba5ced256c3aa51e38e79158111fd77b" title="Clear parts of a data space. " alt="" coords="144,219,304,248"/>
+<area shape="rect" id="node13" href="$classL4Re_1_1Dataspace.html#ab56e2df442256643ef8becb8b89331a2" title="Copy data space contents. " alt="" coords="136,272,312,301"/>
+<area shape="rect" id="node15" href="$classL4Re_1_1Rm.html#ad01335d8310c25a7676f69338e880495" title="Find a region given an address and size. " alt="" coords="169,325,279,355"/>
+<area shape="rect" id="node17" href="$classL4Re_1_1Mem__alloc.html#a6465156726d23636766e91db33517204" title="Free data space. " alt="" coords="147,379,301,408"/>
+<area shape="rect" id="node19" href="$classL4Re_1_1Rm.html#ac87dffc65120b3460f177e6297b99b30" title="Free an area from the region map. " alt="" coords="152,432,296,461"/>
+<area shape="rect" id="node21" href="$classL4Re_1_1Dataspace.html#a4989267bdb3c9086ce5cd45258c102c4" title="Get information on the data space. " alt="" coords="148,485,300,515"/>
+<area shape="rect" id="node27" href="$classL4Re_1_1Util_1_1Event__t.html#a0cbe4061a73ac278cb7015163c0c4c18" title="Initialise an event object. " alt="" coords="157,538,291,585"/>
+<area shape="rect" id="node29" href="$classL4Re_1_1Dataspace.html#a4fa37ebc3ddac165e1491dcbda121d70" title="Get the physical addresses of a data space. " alt="" coords="144,608,304,637"/>
+<area shape="rect" id="node31" href="$classL4Re_1_1Util_1_1Event__buffer__consumer__t.html#a4ed22b41ce4c7e6b93efae878b1415ef" title="Continuously wait for events and process them. " alt="" coords="143,661,305,707"/>
+<area shape="rect" id="node33" href="$classL4Re_1_1Namespace.html#aa0d494b614183be59e86635cb9b7804e" title="Register an object with a name. " alt="" coords="121,731,327,760"/>
+<area shape="rect" id="node35" href="$classL4Re_1_1Rm.html#a5c934ae58a023f8cbe839a96bf046c2c" title="Reserve the given area in the region map. " alt="" coords="141,784,307,813"/>
+<area shape="rect" id="node23" href="$classL4Re_1_1Dataspace.html#a4b5a994a93cb92028309bd901054f138" title="Get size of a data space. " alt="" coords="379,459,533,488"/>
+<area shape="rect" id="node25" href="$classL4Re_1_1Dataspace.html#a3e81d864adcc2c7a5ce251d6f47d76fa" title="Get flags of the data space. " alt="" coords="376,512,536,541"/>
+</map>
